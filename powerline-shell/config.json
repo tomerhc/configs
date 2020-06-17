@@ -1,0 +1,12 @@
+{
+  "segments": [
+    "username",
+    "hostname",
+    "ssh",
+    "cwd",
+    "git"
+  ],
+  "theme":"/home/tomerh/.config/powerline-shell/themes/scripted.py"
+
+}
+
