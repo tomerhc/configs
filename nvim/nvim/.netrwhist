@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/var/log/elasticsearch'
+let g:netrw_dirhist_9='/home/tomerh/rust_projects/reeses/src/lib'
+let g:netrw_dirhist_8='/home/tomerh/rust_projects/learn-async/src'
+let g:netrw_dirhist_7='/home/tomerh/rust_projects/broken/src/grep'
+let g:netrw_dirhist_6='/home/tomerh/rust_projects/broken/src/common'
+let g:netrw_dirhist_5='/home/tomerh'
+let g:netrw_dirhist_4='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_3='/home/tomerh/rust_projects/broken/src'
+let g:netrw_dirhist_2='/home/tomerh/.config/alacritty'
+let g:netrw_dirhist_1='/etc/xdg/awesome'
